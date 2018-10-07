@@ -11,6 +11,10 @@ Galaga is a game that consists of the player ship and multiple aliens. You must 
  - `git clone https://github.com/christielynam/gametime/`
  - `npm install`
  - `npm start`
+ 
+ ## Deployment
+ 
+ This project has been deplayed to gh-pages. You can find it [here](https://christielynam.github.io/gametime/).
 
 ## Goals
 
