@@ -4,7 +4,7 @@
 
 ## Description
 
-Galaga is a game that consists of the player ship and multiple aliens. You must shoot all of the aliens before moving on to the next phase of the game. When the game begins, you have 3 lives. You lose when the player ship has been shot by aliens 3 times. This game is still a work in progress as to get the aliens to fly in formation and fly at the player ship.
+Galaga is a game that consists of the player ship and multiple aliens. You must shoot all of the aliens before moving on to the next phase of the game. When the game begins, you have 3 lives. You lose when the player ship has been shot by aliens 3 times. This game is still a work in progress as to get the aliens to fly in formation and fly at the player ship. This project has been deployed to gh-pages [here](https://christielynam.github.io/gametime/).
 
 ## Installation/Setup Instructions
 
@@ -12,10 +12,6 @@ Galaga is a game that consists of the player ship and multiple aliens. You must 
  - `npm install`
  - `npm start`
  
- ## Deployment
- 
- This project has been deployed to gh-pages. You can find it [here](https://christielynam.github.io/gametime/).
-
 ## Goals
 
  - Build a game that is playable in the browser
