@@ -14,7 +14,7 @@ Galaga is a game that consists of the player ship and multiple aliens. You must 
  
  ## Deployment
  
- This project has been deplayed to gh-pages. You can find it [here](https://christielynam.github.io/gametime/).
+ This project has been deployed to gh-pages. You can find it [here](https://christielynam.github.io/gametime/).
 
 ## Goals
 
